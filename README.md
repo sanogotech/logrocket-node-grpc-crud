@@ -1,4 +1,6 @@
-# LogRocket Tutorial of a CRUD with gRPC and Node
+# LogRocket Tutorial of a CRUD with gRPC and Node:
+
+https://blog.logrocket.com/creating-a-crud-api-with-node-express-and-grpc/
 
 This project is separated in two parts:
 - Server: where gRPC serves the remote calls defined in the proto file
